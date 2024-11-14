@@ -1,8 +1,7 @@
-instructions for script: filter_reads_with_reference.sh
-
 This is part of Cássio van den Berg's repository phylogenomic-scripts
 https://github.com/cavdberg/phylogenomic-scripts
 
+INSTALLATION OF ENVIRONMENT TO RUN THE SCRIPTS IN THE REPOSITORY:
 
 Version: 2.0 - 10 Jul 2024
 Requirements: 
@@ -10,8 +9,9 @@ Requirements:
 Samtools 1.6
 bwa
 bedtools (bamToFastq)
+biopython
 
-Environment installation:
+Environment installation (with conda):
 
 conda create -n phyloscripts
 conda install samtools=1.6
