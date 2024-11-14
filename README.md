@@ -12,7 +12,12 @@ bwa
 bedtools (bamToFastq)
 biopython
 
+
+
 Environment installation (with conda):
+
+
+
 
 conda create -n phyloscripts
 
@@ -26,6 +31,9 @@ conda install pigz
 
 conda install biopython
 
+
+
 Before using any of the scripts, please activate the environment:
+
 
 conda activate phyloscripts
