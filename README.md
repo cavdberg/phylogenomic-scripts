@@ -15,10 +15,15 @@ biopython
 Environment installation (with conda):
 
 conda create -n phyloscripts
+
 conda install samtools=1.6
+
 conda install bwa=0.7.17
+
 conda install bedtools=2.31.1
+
 conda install pigz
+
 conda install biopython
 
 Before using any of the scripts, please activate the environment:
