@@ -8,7 +8,6 @@ print('Usage: fasta_with_line_breaks_to_fasta_without_line_breaks.py <name of fa
 #version 1.00 3 May 2024
 
 import sys
-
 from Bio import SeqIO
 
 entrada=sys.argv[1]
