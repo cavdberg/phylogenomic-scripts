@@ -1,4 +1,4 @@
-
+echo 'This script filters pair-end reads to a reference and creates 2 new .fastq.gz with the filtered reads'
 echo 'Usage: filter_reads_with_reference <reference.fasta> <fastq1> <fastq2> <number of threads>'
 #This script is part of the collection 'phylogenomic scripts' by Cássio van den Berg
 #Please cite the repository https://github.com/cavdberg/phylogenomic-scripts
