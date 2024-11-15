@@ -1,6 +1,7 @@
 #! /usr/bin/python
 
-print('This script requires Python 3')
+print('This script requires Python 3 and biopython')
+print('This script format fasta files so that sequences are in a single line without line breaks.
 print('Usage: fasta_with_line_breaks_to_fasta_without_line_breaks.py <name of fasta to read> <name of fasta to save>')
 #This script is part of the collection 'phylogenomic scripts' by Cássio van den Berg
 #Please cite the repository https://github.com/cavdberg/phylogenomic-scripts
